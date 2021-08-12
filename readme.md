@@ -1,5 +1,5 @@
 # mongoDB 및 elasticsearch 연동
-2021.07.29 | 엄창용
+last update 2021.07.29
 * * *
 #### 구성요소
 + MongoDB
